@@ -24,6 +24,8 @@ Keep in mind that sometimes establishing a connection with youtube from python m
 please just try again.
 
 
-NOTE: If you decide to pick a video that you already have downloaded, please make sure it's in the same directory/location as this script.
+IMPORTANT NOTES: 
+-If you decide to pick a video that you already have downloaded, please make sure it's in the same directory/location as this script.
+-The maximum video length this program is one hour. The program may crash if a video longer than that is used.
 
 Another mini note: both colorloop.mp4 and TestVid.mp4 were the videos that were used for testing, therefore we included them incase they were needed.
