@@ -2,6 +2,8 @@
 
 THIS WAS CREATED USING PYTHON 3.8.6, SOME MODULES MIGHT NOT WORK WITH PREVIOUS OR MORE RECENT VERSIONS.
 
+Frame to frame handling done by itsfeas. Menu and input handling done by MHUalberta (on previous account).
+
 This script is designed to give warnings with timestaps for scenes in videos that have sudden color changes or flashing imagery.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 To be able to run this code, please install the following modules (Command Prompt guide to downloading them provided):
