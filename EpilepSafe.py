@@ -3,7 +3,7 @@ import pytube
 from pytube import YouTube
 from cutter3 import *
 
-border ='-'*105
+border = '-'*105
 title_border = '='*105
 print(title_border)
 print((' '*48)+'EpilepSafe'+(' '*47))
